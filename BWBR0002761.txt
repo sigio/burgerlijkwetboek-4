@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 4
-Geldend van 01-01-2003 t/m 30-04-2004
+Geldend van 01-05-2004 t/m 30-06-2004
 
 Burgerlijk Wetboek Boek 4, Erfrecht
 
@@ -160,7 +160,7 @@ Artikel 15
 	b.	het saldo van de nalatenschap anderszins onjuist is berekend, dan wel
 	c.	de geldvordering niet is berekend overeenkomstig het deel waarop het kind aanspraak kon maken,
 
-wordt de vaststelling op verzoek van een kind of de echtgenoot dienovereenkomstig door de kantonrechter gewijzigd. Op de vaststelling is hetgeen omtrent verdeling is bepaald in de artikelen 196 leden 2, 3 en 4, 199 en artikel 200 van Boek 3 van overeenkomstige toepassing.
+wordt de vaststelling op verzoek van een kind of de echtgenoot dienovereenkomstig door de kantonrechter gewijzigd. Op de vaststelling is hetgeen omtrent verdeling is bepaald in de artikelen 196 leden 2, 3 en 4, 199 en 200 van Boek 3 van overeenkomstige toepassing.
 
 3.	Bij de vaststelling van de geldvordering zijn de artikelen 229 tot en met 233 van overeenkomstige toepassing.
 
@@ -575,7 +575,7 @@ Bij de berekening van de legitieme porties worden de volgende door de erflater g
 
 Artikel 68
 
-Giften van de erflater aan zijn echtgenoot worden voor de toepassing van deze afdeling buiten beschouwing gelaten voor zover zich, ten gevolge van een gemeenschap van goederen of een deelgenootschap waarin de erflater en de echtgenoot ten tijde van de gift gehuwd waren, geen verrijking ten koste van het vermogen van de gever heeft voorgedaan.
+Giften van de erflater aan zijn echtgenoot worden voor de toepassing van deze afdeling buiten beschouwing gelaten voor zover zich, ten gevolge van een gemeenschap van goederen waarin de erflater en de echtgenoot ten tijde van de gift gehuwd waren of ten gevolge van een tussen hen op dat tijdstip geldend verrekenbeding, geen verrijking ten koste van het vermogen van de gever heeft voorgedaan.
 
 Artikel 69
 
@@ -695,7 +695,7 @@ De vorderingen worden verhoogd met een percentage dat overeenkomt met dat van de
 
 Artikel 85
 
-1.	De mogelijkheid om aanspraak te maken op de legitieme portie vervalt, indien de legitimaris niet binnen een hem door een belanghebbende gestelde redelijke termijn, en uiterlijk vijf jaar na het overlijden van de erflater, heeft verklaard dat hij zijn legitieme portie wenst te ontvangen.
+1.	De mogelijkheid om aanspraak te maken op de legitieme portie vervalt, indien de legitimaris niet binnen een hem door een belanghebbende gestelde redelijke termijn, en uiterlijk vijf jaren na het overlijden van de erflater, heeft verklaard dat hij zijn legitieme portie wenst te ontvangen.
 
 2.	Indien negen maanden na het overlijden van de erflater niet vaststaat in hoeverre diens echtgenoot aanspraak zal maken op vestiging van een vruchtgebruik krachtens artikel 30, vervalt het deel van de vordering dat ten laste van de echtgenoot zou komen, tenzij de legitimaris binnen die termijn aan de echtgenoot heeft verklaard dat hij zijn legitieme portie wenst te ontvangen. Artikel 77 is op deze termijn van overeenkomstige toepassing.
 
@@ -809,13 +809,11 @@ Artikel 98
 
 Artikel 99
 
-1.	In geval van oorlog of burgeroorlog kunnen de daartoe bij algemene maatregel van bestuur aangewezen noodwachters een uiterste wil maken ten overstaan van een officier van een noodwacht of noodwachtstaf.
-
-2.	Officieren mogen hun medewerking slechts verlenen, indien de erflater zich niet tot een bevoegde notaris of consulaire ambtenaar kan wenden. Niet-inachtneming van dit voorschrift schaadt de geldigheid van de uiterste wil niet.
+[Vervallen per 01-05-2004]
 
 Artikel 100
 
-1.	De in de artikelen 98 lid 1 en 99 lid 1 vermelde mogelijkheid blijft bestaan, totdat de Koning heeft vastgesteld dat voor de toepassing van die bepalingen de oorlog of de burgeroorlog als geëindigd moet worden beschouwd.
+1.	De in artikel 98 lid 1 vermelde mogelijkheid blijft bestaan, totdat de Koning heeft vastgesteld dat voor de toepassing van die bepaling de oorlog of de burgeroorlog als geëindigd moet worden beschouwd.
 
 2.	De in artikel 98 lid 2 vermelde mogelijkheid blijft bestaan, totdat op de bij algemene maatregel van bestuur te bepalen wijze is bekendgemaakt dat de aanwijzing is geëindigd.
 
@@ -825,21 +823,21 @@ Zij die zich op een reis aan boord van een zeeschip of luchtvaartuig bevinden, k
 
 Artikel 102
 
-Op plaatsen waar voor de erflater het normale verkeer met een notaris of bevoegde consulaire ambtenaar verboden of verbroken is als gevolg van rampen, gevechtshandelingen, besmettelijke ziekten of andere buitengewone omstandigheden, kan hij een uiterste wil maken ten overstaan van een Nederlandse consulaire ambtenaar, ook indien deze niet krachtens de gewone regelen bevoegd is, of de burgemeester, de secretaris of een wethouder der gemeente, een kandidaat-notaris, een advocaat, een procureur, een officier van de krijgsmacht of van een noodwacht of noodwachtstaf, of een daartoe door de minister van justitie bevoegd verklaarde ambtenaar.
+Op plaatsen waar voor de erflater het normale verkeer met een notaris of bevoegde consulaire ambtenaar verboden of verbroken is als gevolg van rampen, gevechtshandelingen, besmettelijke ziekten of andere buitengewone omstandigheden, kan hij een uiterste wil maken ten overstaan van een Nederlandse consulaire ambtenaar, ook indien deze niet krachtens de gewone regelen bevoegd is, of de burgemeester, de secretaris of een wethouder der gemeente, een kandidaat-notaris, een advocaat, een procureur, een officier van de krijgsmacht of van een gemeentelijke of regionale brandweer, of een daartoe door de minister van justitie bevoegd verklaarde ambtenaar.
 
 Artikel 103
 
-1.	De uiterste willen, bedoeld in de artikelen 98, 99, 101 en 102, worden verleden in tegenwoordigheid van twee getuigen. Zij worden op behoorlijke wijze op schrift gesteld en door de erflater, alsmede door de getuigen en degene te wiens overstaan zij zijn verleden, ondertekend.
+1.	De uiterste willen, bedoeld in de artikelen 98, 101 en 102, worden verleden in tegenwoordigheid van twee getuigen. Zij worden op behoorlijke wijze op schrift gesteld en door de erflater, alsmede door de getuigen en degene te wiens overstaan zij zijn verleden, ondertekend.
 
-2.	De getuigen moeten meerderjarig zijn en de taal verstaan, waarin de uiterste wil is opgesteld. In de gevallen van de artikelen 98, 99 en 102 behoeven echter militairen en noodwachters die als getuige optreden, niet meerderjarig te zijn.
+2.	De getuigen moeten meerderjarig zijn en de taal verstaan, waarin de uiterste wil is opgesteld. In de gevallen van de artikelen 98 en 102 geldt het vereiste van meerderjarigheid niet voor getuigen die militairen zijn of deelnemen aan het bestrijden van een ramp of een zwaar ongeval als bedoeld in artikel 1 van de Wet rampen en zware ongevallen.
 
 3.	Indien de erflater of een van de getuigen verklaart door onkunde of een andere met name door hem genoemde oorzaak niet te kunnen ondertekenen, vervangt die verklaring zijn ondertekening, mits zij in de akte wordt opgenomen.
 
 Artikel 104
 
-1.	De erflater is in de gevallen van de artikelen 98, 99, 101 en 102 ook bevoegd een door hem ondertekende onderhandse uiterste wil te maken, die hij in tegenwoordigheid van twee getuigen in bewaring geeft aan een persoon te wiens overstaan hij ingevolge die artikelen een uiterste wil kan doen verlijden. Deze persoon maakt daarvan onmiddellijk een akte van bewaargeving op, hetzij op het papier van de uiterste wil, hetzij op de omslag daarvan, hetzij op een afzonderlijk papier; het vorige artikel is op die akte van overeenkomstige toepassing.
+1.	De erflater is in de gevallen van de artikelen 98, 101 en 102 ook bevoegd een door hem ondertekende onderhandse uiterste wil te maken, die hij in tegenwoordigheid van twee getuigen in bewaring geeft aan een persoon te wiens overstaan hij ingevolge die artikelen een uiterste wil kan doen verlijden. Deze persoon maakt daarvan onmiddellijk een akte van bewaargeving op, hetzij op het papier van de uiterste wil, hetzij op de omslag daarvan, hetzij op een afzonderlijk papier; het vorige artikel is op die akte van overeenkomstige toepassing.
 
-2.	De artikelen 98 lid 4, 99 lid 2 en 100 zijn van overeenkomstige toepassing.
+2.	De artikelen 98 lid 4 en 100 zijn van overeenkomstige toepassing.
 
 3.	Op degene die de geldigheid van de in bewaring gegeven uiterste wil bestrijdt op grond dat de erflater de wil niet eigenhandig heeft ondertekend, rust de bewijslast daarvan.
 
@@ -849,19 +847,19 @@ Indien in een geval, bedoeld in het vorige artikel, de onderhandse uiterste wil 
 
 Artikel 106
 
-1.	Hij die een akte van uiterste wil, van bewaargeving of van terugneming, als bedoeld in de artikelen 98-105 en 113 , onder zich heeft, zendt de akte zo spoedig mogelijk in gesloten omslag naar het testamentenregister te 's-Gravenhage.
+1.	Hij die een akte van uiterste wil, van bewaargeving of van terugneming, als bedoeld in de artikelen 98, 100 tot en met 105 en 113, onder zich heeft, zendt de akte zo spoedig mogelijk in gesloten omslag naar het testamentenregister te 's-Gravenhage.
 
 2.	Het vorige lid geldt niet voor akten, opgemaakt door of ten overstaan van een volgens de gewone regelen bevoegde notaris of consulaire ambtenaar, en voor de door dezen in bewaring genomen akten van uiterste wil.
 
 Artikel 107
 
-1.	De uiterste willen, bedoeld in de artikelen 98–104, zijn vernietigbaar, indien de erflater overlijdt meer dan zes maanden nadat voor hem de mogelijkheid is geëindigd, een uiterste wil te maken op een van de in die artikelen genoemde wijzen.
+1.	De uiterste willen, bedoeld in de artikelen 98 en 100 tot en met 104, zijn vernietigbaar, indien de erflater overlijdt meer dan zes maanden nadat voor hem de mogelijkheid is geëindigd, een uiterste wil te maken op een van de in die artikelen genoemde wijzen.
 
 2.	De termijn wordt telkens met een maand verlengd, indien de erflater redelijkerwijze niet in staat is geweest in de laatstverstreken maand een uiterste wil te maken.
 
 Artikel 108
 
-Een uiterste wil die op een in een der artikelen 98, 99, 101, 102 en 104 vermelde wijze, doch niet onder de daar aangegeven omstandigheden is gemaakt, is, indien de erflater binnen zes maanden daarna overlijdt, niet van rechtswege nietig, doch vernietigbaar.
+Een uiterste wil die op een in een der artikelen 98, 101, 102 en 104 vermelde wijze, doch niet onder de daar aangegeven omstandigheden is gemaakt, is, indien de erflater binnen zes maanden daarna overlijdt, niet van rechtswege nietig, doch vernietigbaar.
 
 Artikel 109
 
@@ -869,7 +867,7 @@ Artikel 109
 
 2.	Een uiterste wil die ten overstaan van een notaris moet worden gemaakt is nietig, indien de akte van uiterste wil niet door een notaris is ondertekend. Een uiterste wil, die aan een notaris in bewaring moet worden gegeven, is nietig, indien een door een notaris ondertekende akte van bewaargeving ontbreekt. Is echter, in dit laatste geval, de akte van uiterste wil door een notaris ondertekend, dan is de uiterste wil vernietigbaar.
 
-3.	Het vorige lid is van overeenkomstige toepassing op een uiterste wil die ten overstaan van een in artikel 98, 99, 101 en 102 genoemde persoon moet worden gemaakt of aan een aldaar genoemde persoon in bewaring moet worden gegeven.
+3.	Het vorige lid is van overeenkomstige toepassing op een uiterste wil die ten overstaan van een in de artikelen 98, 101 en 102 genoemde persoon moet worden gemaakt of aan een aldaar genoemde persoon in bewaring moet worden gegeven.
 
 4.	Het niet inachtnemen van andere door de wet voor de geldigheid van de uiterste wil gestelde vormvereisten maakt de uiterste wil vernietigbaar.
 
@@ -1125,7 +1123,7 @@ Artikel 146
 
 Artikel 147
 
-1.	De executeur is, behoudens het in de artikelen 4.4.2.3 en 4.4.2.3a bepaalde, bevoegd door hem beheerde goederen te gelde te maken, voor zover dit nodig is voor de tot zijn taak behorende voldoening van schulden der nalatenschap.
+1.	De executeur is bevoegd door hem beheerde goederen te gelde te maken, voor zover dit nodig is voor de tot zijn taak behorende voldoening van schulden der nalatenschap en de nakoming der hem opgelegde lasten.
 
 2.	Tenzij de erflater anders heeft beschikt, treedt de executeur omtrent de keuze van de te gelde te maken goederen en de wijze van tegeldemaking zoveel mogelijk in overleg met de erfgenamen en stelt hij, zo bij een erfgenaam bezwaar bestaat tegen een voorgenomen tegeldemaking, die erfgenaam in de gelegenheid de beslissing van de kantonrechter in te roepen.
 
@@ -1690,7 +1688,7 @@ Artikel 218
 
 3.	Binnen een maand na deze openlijke bekendmaking kan iedere belanghebbende tegen de rekening en verantwoording of tegen de uitdelingslijst bij de kantonrechter of, indien een rechter-commissaris is benoemd, bij de rechtbank in verzet komen.
 
-4.	Verbintenissen die tot levering van een goed der nalatenschap of tot vestiging van een beperkt recht op een zodanig goed verplichten, worden in een geldschuld omgezet, voor zover een tekort dit nodig maakt. Andere verbintenissen die niet in geld luiden, en verbintenissen onder een opschortende voorwaarde worden in de uitdelingslijst slechts op verzoek van de schuldeiser opgenomen; in dat geval worden zij omgezet in een geldschuld. De vordering van een legitimaris wordt, indien zij ingevolge artikel 81 lid 2, een voorwaarde als bedoeld 82 of een beschikking als bedoeld in artikel 83 niet opeisbaar is, niet in de uitdelingslijst opgenomen.
+4.	Verbintenissen die tot levering van een goed der nalatenschap of tot vestiging van een beperkt recht op een zodanig goed verplichten, worden in een geldschuld omgezet, voor zover een tekort dit nodig maakt. Andere verbintenissen die niet in geld luiden, en verbintenissen onder een opschortende voorwaarde worden in de uitdelingslijst slechts op verzoek van de schuldeiser opgenomen; in dat geval worden zij omgezet in een geldschuld. De vordering van een legitimaris wordt, indien zij ingevolge artikel 81 lid 2, een voorwaarde als bedoeld in artikel 82 of een beschikking als bedoeld in artikel 83 niet opeisbaar is, niet in de uitdelingslijst opgenomen.
 
 5.	Voor het overige vinden bij de berekening van ieders vordering, het opmaken van de uitdelingslijst en het verzet daartegen de dienaangaande in de Faillissementswet voorkomende voorschriften zoveel mogelijk overeenkomstige toepassing.
 
