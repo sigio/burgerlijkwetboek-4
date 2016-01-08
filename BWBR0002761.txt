@@ -1,7 +1,7 @@
 
 
 Burgerlijk Wetboek Boek 4
-Geldend van 17-08-2015 t/m 31-08-2016
+Geldend van 01-09-2016 t/m 31-08-2017
 
 Burgerlijk Wetboek Boek 4, Erfrecht
 
@@ -1408,7 +1408,7 @@ Artikel 184
 1.	Schuldeisers van de nalatenschap kunnen hun vorderingen op de goederen der nalatenschap verhalen.
 
 2.	Een erfgenaam is niet verplicht een schuld der nalatenschap ten laste van zijn overig vermogen te voldoen, tenzij hij:
-	a.	zuiver aanvaardt, behalve voor zover de schuld niet op hem rust en onverminderd de artikelen 14 lid 3 en 87 lid 5;
+	a.	zuiver aanvaardt, behalve voor zover de schuld niet op hem rust of hij deze geheel of gedeeltelijk niet hoeft te voldoen ingevolge artikel 194a lid 2 en onverminderd de artikelen 14 lid 3 en 87 lid 5;
 	b.	de voldoening van de schuld verhindert en hem daarvan een verwijt kan worden gemaakt;
 	c.	opzettelijk goederen der nalatenschap zoek maakt, verbergt of op andere wijze aan het verhaal van schuldeisers der nalatenschap onttrekt; of
 	d.	vereffenaar is, in de vervulling van zijn verplichtingen als zodanig in ernstige mate tekortschiet, en hem daarvan een verwijt kan worden gemaakt.
@@ -1484,7 +1484,7 @@ Artikel 191
 
 Artikel 192
 
-1.	Een erfgenaam die zich ondubbelzinnig en zonder voorbehoud als een zuiver aanvaard hebbende erfgenaam gedraagt, aanvaardt daardoor de nalatenschap zuiver, tenzij hij zijn keuze reeds eerder heeft gedaan.
+1.	Een erfgenaam die zich ondubbelzinnig en zonder voorbehoud als een zuiver aanvaard hebbende erfgenaam gedraagt doordat hij goederen van de nalatenschap verkoopt, bezwaart of op andere wijze aan het verhaal van schuldeisers onttrekt, aanvaardt daardoor de nalatenschap zuiver, tenzij hij zijn keuze reeds eerder heeft gedaan.
 
 2.	Indien een erfgenaam zijn keuze nog niet heeft gedaan, kan de kantonrechter hem daarvoor op verzoek van een belanghebbende een termijn stellen, die ingaat op de dag nadat de belanghebbende deze beschikking aan de erfgenaam heeft doen betekenen en de beschikking onder vermelding van de gedane betekening heeft doen inschrijven in het boedelregister. De kantonrechter kan op verzoek van de erfgenaam de termijn voor de afloop daarvan een of meer malen verlengen; de verlenging wordt in het boedelregister ingeschreven.
 
@@ -1506,6 +1506,12 @@ Artikel 194
 
 2.	Een erfgenaam die na zuivere aanvaarding bekend wordt met een uiterste wil, volgens welke zijn erfdeel groter is dan het zonder die uiterste wil zou zijn geweest, of met een na zijn aanvaarding voorgevallen gebeurtenis waardoor zijn erfdeel is vergroot, wordt, indien hij binnen drie maanden na die ontdekking het verzoek daartoe doet, door de kantonrechter gemachtigd alsnog beneficiair te aanvaarden. Nochtans moet hij de schulden der nalatenschap en de lasten met zijn gehele vermogen voldoen, voor zover dat ook zonder die uiterste wil of zonder die gebeurtenis het geval zou zijn geweest
 
+Artikel 194a
+
+1.	Een erfgenaam die na zuivere aanvaarding bekend wordt met een schuld van de nalatenschap, die hij niet kende en ook niet behoorde te kennen, wordt, indien hij binnen drie maanden na die ontdekking het verzoek daartoe doet, door de kantonrechter gemachtigd om alsnog beneficiair te aanvaarden.
+
+2.	Wanneer een erfgenaam na vereffening of verdeling van de nalatenschap bekend wordt met een schuld, die hij niet kende en ook niet behoorde te kennen, kan hij de kantonrechter, binnen de in het eerste lid genoemde termijn, verzoeken om te worden ontheven van zijn verplichting de schuld uit zijn vermogen te voldoen voor zover deze niet uit hetgeen hij krachtens erfrecht uit de nalatenschap heeft verkregen, kan worden voldaan. De kantonrechter verleent deze ontheffing, tenzij de erfgenaam zich zodanig heeft gedragen dat de schuldeiser erop mocht vertrouwen dat de erfgenaam deze schuld uit zijn overige vermogen voldoet.
+
 Artikel 195
 
 1.	Is een nalatenschap door een of meer erfgenamen beneficiair aanvaard en moet zij uit dien hoofde overeenkomstig de volgende afdeling van deze titel worden vereffend, dan zijn alle erfgenamen vereffenaar.
@@ -1514,7 +1520,7 @@ Artikel 195
 
 Artikel 196
 
-De kantonrechter kan, op verzoek van een belanghebbende of ambtshalve, de erfgenamen gelasten de beneficiaire aanvaarding bekend te maken in de Staatscourant en in een of meer door hem aangewezen nieuwsbladen.
+De kantonrechter kan, op verzoek van een belanghebbende of ambtshalve, de erfgenamen gelasten de beneficiaire aanvaarding bekend te maken in de Staatscourant.
 
 Artikel 197
 
@@ -1595,7 +1601,7 @@ Artikel 206
 
 5.	Hij kan worden ontslagen hetzij op eigen verzoek, hetzij om gewichtige redenen, zulks op verzoek van een medevereffenaar, een erfgenaam, een schuldeiser van de nalatenschap of het openbaar ministerie, dan wel ambtshalve. Hangende het onderzoek kan de rechtbank voorlopige voorzieningen treffen en de vereffenaar schorsen. De taak van de vereffenaar eindigt door zijn dood, het ten aanzien van hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, zijn faillietverklaring, zijn ondercuratelestelling of indien een bewind als bedoeld in titel 19 van Boek 1 over een of meer van zijn goederen wordt ingesteld. De rechter benoemt een of meer vereffenaars waar dezen ontbreken voordat de vereffening is geëindigd; hij kan een opengevallen plaats doen bezetten.
 
-6.	De griffier doet de benoeming van een vereffenaar, alsmede het eindigen van zijn hoedanigheid onverwijld in het boedelregister inschrijven. De vereffenaar maakt haar bekend in de Staatscourant en in een of meer bij de benoeming voorgeschreven nieuwsbladen.
+6.	De griffier doet de benoeming van een vereffenaar, alsmede het eindigen van zijn hoedanigheid onverwijld in het boedelregister inschrijven. De vereffenaar maakt haar bekend in de Staatscourant.
 
 Artikel 207
 
